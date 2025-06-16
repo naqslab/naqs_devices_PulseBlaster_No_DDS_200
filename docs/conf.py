@@ -21,7 +21,7 @@ project = 'naqs_devices_PulseBlaster_No_DDS_200'
 copyright = '2025, naqslab'
 author = 'naqslab'
 
-version = importlib_metadata.version('PulseBlaster_No_DDS_200')
+version = importlib.metadata.version('naqs_devices_PulseBlaster_No_DDS_200')
 release = version
 
 # get version into rst files
